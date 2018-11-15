@@ -1,4 +1,5 @@
 #write your code here
+countdown = 10 
 
 def countdown(seconds)
   while seconds > 0 
